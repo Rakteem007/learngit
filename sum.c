@@ -11,6 +11,6 @@ int main()
 
    sum=num1+num2;
 
-   printf("The number is %d",sum);
+   printf("The number  %d",sum);
    return 0;
 }
